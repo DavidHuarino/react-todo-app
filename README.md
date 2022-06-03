@@ -1,6 +1,10 @@
 # React Hooks Todo App
 
-a simple Todo List App using React Hooks, Context and Sass.
+A simple Todo List App using React Hooks and Css.
+
+## Demo
+
+[Live Demo - Netlify](https://astonishing-meerkat-cb76b0.netlify.app)
 
 ## Available Scripts
 
